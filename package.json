@@ -1,0 +1,11 @@
+{
+  "name": "e_phrases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sasstocss": "node-sass ./index.scss ./index.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
